@@ -61,6 +61,6 @@ Enterprise-ready REST API with authentication, layered architecture, and Postgre
 
 ---
 
-⭐ Open to Full-Time and C2C Java Full Stack Opportunities
+⭐ Open to Full-Time and W2 Java Full Stack Opportunities
 
 

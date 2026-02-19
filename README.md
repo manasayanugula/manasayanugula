@@ -1,7 +1,7 @@
 # Hi, I'm Manasa Yanugula 👋
 
 💼 Senior Java Full Stack Developer  
-📍 United States
+📍 United States  
 📧 yanugulamanasaa25@gmail.com  
 
 ---

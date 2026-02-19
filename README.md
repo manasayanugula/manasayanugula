@@ -1,7 +1,7 @@
 # Hi, I'm Manasa Yanugula 👋
 
 💼 Senior Java Full Stack Developer  
-📍 Newark, DE  
+📍 United States
 📧 yanugulamanasaa25@gmail.com  
 
 ---

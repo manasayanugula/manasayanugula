@@ -8,59 +8,68 @@
 
 ## 👩‍💻 About Me
 
-Java Full Stack Developer with 5+ years of experience building scalable, cloud-native enterprise applications.
+Java Full Stack Developer with 5+ years of experience building scalable and production-ready applications.
 
-Strong expertise in:
+I specialize in designing backend systems using Spring Boot and developing modern web applications using React and Angular.
 
-- Spring Boot Microservices
-- RESTful API Development
-- React & Angular Applications
-- PostgreSQL & Oracle Databases
-- AWS Cloud & Docker
-- CI/CD Automation
+I focus on:
+- Clean architecture
+- Scalable backend design
+- Secure and maintainable APIs
 
-I focus on writing clean, maintainable, and production-ready code.
+---
+
+## 🚀 Featured Projects
+
+### 🔹 SmartHire Backend (NEW)
+Spring Boot backend system to manage job applications with clean architecture.
+
+✔ REST APIs for Users & Job Applications  
+✔ CRUD operations with status tracking  
+✔ DTO-based architecture  
+✔ Input validation using Jakarta Validation  
+✔ Global exception handling & custom errors  
+
+👉 https://github.com/manasayanugula/smarthire-backend  
+
+---
+
+### 🔹 Spring Boot CRUD API
+Enterprise-style REST API with layered architecture and database integration.
+
+👉 https://github.com/manasayanugula/spring-boot-crud-demo  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Backend
-Java, Spring Boot, Spring Security, Hibernate, JPA, REST APIs
+Java, Spring Boot, Spring Security, Hibernate, JPA, REST APIs  
 
 ### Frontend
-React.js, Angular, TypeScript, JavaScript, HTML5, CSS3
+React.js, Angular, TypeScript, JavaScript, HTML, CSS  
 
 ### Database
-PostgreSQL, MySQL, Oracle
+PostgreSQL, MySQL, Oracle  
 
 ### DevOps & Cloud
-AWS, Docker, GitHub Actions, Jenkins, Kubernetes
+AWS, Docker, Jenkins, GitHub Actions  
 
 ### Testing
-JUnit, Mockito, Selenium
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Spring Boot Microservices API
-Enterprise-ready REST API with authentication, layered architecture, and PostgreSQL integration.
-
-👉 https://github.com/manasayanugula/spring-boot-crud-demo
+JUnit, Mockito  
 
 ---
 
 ## 📈 What I Bring
 
-✔ Clean Architecture  
-✔ Microservices Design  
-✔ Secure API Development  
-✔ Cloud-Ready Deployment  
-✔ Agile & Scrum Experience  
+✔ Backend System Design  
+✔ REST API Development  
+✔ Clean Code & Architecture  
+✔ Microservices Experience  
+✔ Cloud & DevOps Knowledge  
 
 ---
 
-⭐ Open to Full-Time and W2 Java Full Stack Opportunities
+## ⭐ Open to Opportunities
 
-
+Actively looking for Java Full Stack / Backend roles (W2 / Full-Time)

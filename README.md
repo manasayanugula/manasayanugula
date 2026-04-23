@@ -70,6 +70,9 @@ JUnit, Mockito
 
 ---
 
+## ☁️ Certifications
+- AWS Certified Solutions Architect – Associate
+
 ## ⭐ Open to Opportunities
 
 Actively looking for Java Full Stack / Backend roles (W2 / Full-Time)

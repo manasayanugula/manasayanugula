@@ -1,56 +1,74 @@
-👋 Hi, I'm Manasa Yanugula
+## 👋 Hi, I'm Manasa Yanugula  
 
-💼 Full Stack Developer
-📍 United States
-📧 yanugulamanasa03@gmail.com
+💼 Full Stack Developer  
+📍 United States  
+📧 yanugulamanasa03@gmail.com  
 
-👩‍💻 About Me
+---
 
-Full Stack Developer with 5+ years of experience building scalable backend services and modern web applications.
+## 👩‍💻 About Me  
 
-I specialize in designing REST APIs using Spring Boot and integrating them with React-based frontends, focusing on clean architecture and maintainable systems.
+Full Stack Developer with 5+ years of experience building scalable backend services and modern web applications.  
 
-🚀 Featured Projects
-🔹 SmartHire Full Stack Application (NEW)
+I specialize in designing **REST APIs using Spring Boot** and integrating them with **React-based frontends**, focusing on clean architecture and maintainable systems.  
 
-End-to-end job application tracking system with a Spring Boot backend and React frontend.
+---
 
-✔ Developed REST APIs for job management
-✔ Built React frontend to view, add, and update job applications
-✔ Implemented full frontend-backend integration using API calls
-✔ Added input validation and global exception handling
-✔ Handled real-time API interaction and debugging
+## 🚀 Featured Projects  
 
-👉 Backend: https://github.com/manasayanugula/smarthire-backend
+### 🔹 SmartHire Full Stack Application (NEW)  
 
-👉 Frontend: https://github.com/manasayanugula/smarthire-frontend
+End-to-end job application tracking system with a **Spring Boot backend and React frontend**.  
 
-🔹 Spring Boot CRUD API
+✔ Developed REST APIs for job management  
+✔ Built React frontend to view, add, and update job applications  
+✔ Implemented full frontend-backend integration using API calls  
+✔ Added input validation and global exception handling  
+✔ Handled real-time API interaction and debugging  
 
-Enterprise-style REST API with layered architecture and database integration.
+👉 Backend: https://github.com/manasayanugula/smarthire-backend  
+👉 Frontend: https://github.com/manasayanugula/smarthire-frontend  
 
-👉 https://github.com/manasayanugula/spring-boot-crud-demo
+---
 
-🛠 Tech Stack
+### 🔹 Spring Boot CRUD API  
 
-Backend: Java, Spring Boot, REST APIs
-Frontend: React.js, JavaScript, TypeScript, Angular
-Database: PostgreSQL, MySQL, Oracle
-DevOps & Cloud: AWS, Docker, GitHub Actions
-Testing: JUnit, Mockito
+Enterprise-style REST API with layered architecture and database integration.  
 
-📈 What I Bring
+👉 https://github.com/manasayanugula/spring-boot-crud-demo  
 
-✔ REST API Development
-✔ Backend & Frontend Integration
-✔ Clean Code & Architecture
-✔ Problem Solving & Debugging
-✔ Full Stack Development
+---
 
-☁️ Certifications
+## 🛠 Tech Stack  
 
-AWS Certified Solutions Architect – Associate
+**Backend:** Java, Spring Boot, REST APIs  
 
-⭐ Open to Opportunities
+**Frontend:** React.js, JavaScript, TypeScript, Angular  
 
-Open to Full Stack / Backend roles
+**Database:** PostgreSQL, MySQL, Oracle  
+
+**DevOps & Cloud:** AWS, Docker, GitHub Actions  
+
+**Testing:** JUnit, Mockito  
+
+---
+
+## 📈 What I Bring  
+
+✔ REST API Development  
+✔ Backend & Frontend Integration  
+✔ Clean Code & Architecture  
+✔ Problem Solving & Debugging  
+✔ Full Stack Development  
+
+---
+
+## ☁️ Certifications  
+
+AWS Certified Solutions Architect – Associate  
+
+---
+
+## ⭐ Open to Opportunities  
+
+Open to Full Stack / Backend roles  

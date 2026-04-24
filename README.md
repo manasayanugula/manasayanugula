@@ -1,78 +1,65 @@
-# Hi, I'm Manasa Yanugula 👋
+👋 Hi, I'm Manasa Yanugula
 
-💼 Senior Java Full Stack Developer  
-📍 United States  
-📧 yanugulamanasaa25@gmail.com  
+💼 Full Stack Developer
+📍 United States
+📧 yanugulamanasa03@gmail.com
 
----
+👩‍💻 About Me
 
-## 👩‍💻 About Me
+Full Stack Developer with 5+ years of experience building scalable backend services and modern web applications.
 
-Java Full Stack Developer with 5+ years of experience building scalable and production-ready applications.
+I specialize in designing REST APIs using Spring Boot and integrating them with React-based frontends, focusing on clean architecture and maintainable systems.
 
-I specialize in designing backend systems using Spring Boot and developing modern web applications using React and Angular.
+🚀 Featured Projects
+🔹 SmartHire Full Stack Application (NEW)
 
-I focus on:
-- Clean architecture
-- Scalable backend design
-- Secure and maintainable APIs
+End-to-end job application tracking system with Spring Boot backend and React frontend.
 
----
+✔ REST APIs for job management
+✔ React frontend for viewing, adding, and updating jobs
+✔ Full integration between frontend and backend
+✔ Input validation & exception handling
+✔ Real-time API interaction using fetch
 
-## 🚀 Featured Projects
+👉 Backend: https://github.com/manasayanugula/smarthire-backend
 
-### 🔹 SmartHire Backend (NEW)
-Spring Boot backend system to manage job applications with clean architecture.
+👉 Frontend: https://github.com/manasayanugula/smarthire-frontend
 
-✔ REST APIs for Users & Job Applications  
-✔ CRUD operations with status tracking  
-✔ DTO-based architecture  
-✔ Input validation using Jakarta Validation  
-✔ Global exception handling & custom errors  
+🔹 Spring Boot CRUD API
 
-👉 https://github.com/manasayanugula/smarthire-backend  
-
----
-
-### 🔹 Spring Boot CRUD API
 Enterprise-style REST API with layered architecture and database integration.
 
-👉 https://github.com/manasayanugula/spring-boot-crud-demo  
+👉 https://github.com/manasayanugula/spring-boot-crud-demo
 
----
+🛠 Tech Stack
 
-## 🛠 Tech Stack
+Backend
+Java, Spring Boot, REST APIs
 
-### Backend
-Java, Spring Boot, Spring Security, Hibernate, JPA, REST APIs  
+Frontend
+React.js, JavaScript, TypeScript, Angular
 
-### Frontend
-React.js, Angular, TypeScript, JavaScript, HTML, CSS  
+Database
+PostgreSQL, MySQL, Oracle
 
-### Database
-PostgreSQL, MySQL, Oracle  
+DevOps & Cloud
+AWS, Docker, GitHub Actions
 
-### DevOps & Cloud
-AWS, Docker, Jenkins, GitHub Actions  
+Testing
+JUnit, Mockito
 
-### Testing
-JUnit, Mockito  
+📈 What I Bring
 
----
+✔ REST API Development
+✔ Backend & Frontend Integration
+✔ Clean Code & Architecture
+✔ Problem Solving & Debugging
+✔ Full Stack Development
 
-## 📈 What I Bring
+☁️ Certifications
 
-✔ Backend System Design  
-✔ REST API Development  
-✔ Clean Code & Architecture  
-✔ Microservices Experience  
-✔ Cloud & DevOps Knowledge  
+AWS Certified Solutions Architect – Associate
 
----
+⭐ Open to Opportunities
 
-## ☁️ Certifications
-- AWS Certified Solutions Architect – Associate
-
-## ⭐ Open to Opportunities
-
-Actively looking for Java Full Stack / Backend roles (W2 / Full-Time)
+Open to Full Stack / Backend roles

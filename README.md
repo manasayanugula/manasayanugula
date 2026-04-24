@@ -13,13 +13,13 @@ I specialize in designing REST APIs using Spring Boot and integrating them with 
 🚀 Featured Projects
 🔹 SmartHire Full Stack Application (NEW)
 
-End-to-end job application tracking system with Spring Boot backend and React frontend.
+End-to-end job application tracking system with a Spring Boot backend and React frontend.
 
-✔ REST APIs for job management
-✔ React frontend for viewing, adding, and updating jobs
-✔ Full integration between frontend and backend
-✔ Input validation & exception handling
-✔ Real-time API interaction using fetch
+✔ Developed REST APIs for job management
+✔ Built React frontend to view, add, and update job applications
+✔ Implemented full frontend-backend integration using API calls
+✔ Added input validation and global exception handling
+✔ Handled real-time API interaction and debugging
 
 👉 Backend: https://github.com/manasayanugula/smarthire-backend
 
@@ -33,20 +33,11 @@ Enterprise-style REST API with layered architecture and database integration.
 
 🛠 Tech Stack
 
-Backend
-Java, Spring Boot, REST APIs
-
-Frontend
-React.js, JavaScript, TypeScript, Angular
-
-Database
-PostgreSQL, MySQL, Oracle
-
-DevOps & Cloud
-AWS, Docker, GitHub Actions
-
-Testing
-JUnit, Mockito
+Backend: Java, Spring Boot, REST APIs
+Frontend: React.js, JavaScript, TypeScript, Angular
+Database: PostgreSQL, MySQL, Oracle
+DevOps & Cloud: AWS, Docker, GitHub Actions
+Testing: JUnit, Mockito
 
 📈 What I Bring
 
